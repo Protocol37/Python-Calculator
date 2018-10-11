@@ -145,7 +145,7 @@ def user_choice(): #User Control
 		sys.exit()
 
 	else:
-		print('nigga u dumb, pick one of them.')
+		print('Please pick one of the following')
 
 #Start Calling========================================================================================================================================
 		
